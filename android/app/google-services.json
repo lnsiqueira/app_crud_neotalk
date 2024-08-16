@@ -1,0 +1,119 @@
+{
+  "project_info": {
+    "project_number": "590495886385",
+    "firebase_url": "https://nina-homologacao-hcqesi.firebaseio.com",
+    "project_id": "nina-homologacao-hcqesi",
+    "storage_bucket": "nina-homologacao-hcqesi.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:590495886385:android:a2739a07c798aad11bf910",
+        "android_client_info": {
+          "package_name": "br.com.neotalk.crud"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "590495886385-1rdo5o56foo9sv70ss2enju3j4tjv35p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAn8JbXUMoZcjY1hBFQNcr_3pHx0uIOji0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "590495886385-1rdo5o56foo9sv70ss2enju3j4tjv35p.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "590495886385-gt3ml8pguhc5jf8b1n6u4ommdvprf9je.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "br.net.neotalk.botconceito"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:590495886385:android:15896417080f93ae1bf910",
+        "android_client_info": {
+          "package_name": "br.net.neotalk.botconceito"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "590495886385-1rdo5o56foo9sv70ss2enju3j4tjv35p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAn8JbXUMoZcjY1hBFQNcr_3pHx0uIOji0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "590495886385-1rdo5o56foo9sv70ss2enju3j4tjv35p.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "590495886385-gt3ml8pguhc5jf8b1n6u4ommdvprf9je.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "br.net.neotalk.botconceito"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:590495886385:android:5f9a7a0a9ca70b561bf910",
+        "android_client_info": {
+          "package_name": "com.neotalk.webnotif"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "590495886385-1rdo5o56foo9sv70ss2enju3j4tjv35p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAn8JbXUMoZcjY1hBFQNcr_3pHx0uIOji0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "590495886385-1rdo5o56foo9sv70ss2enju3j4tjv35p.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "590495886385-gt3ml8pguhc5jf8b1n6u4ommdvprf9je.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "br.net.neotalk.botconceito"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
